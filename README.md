@@ -1,4 +1,4 @@
-# SURF2020
+# Pathway States Analysis 
  This is a repository for my SURF code. 
  
  You can run the pathway state analysis live at this Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nkanrar/pathway_states_surf2020.git/master)
